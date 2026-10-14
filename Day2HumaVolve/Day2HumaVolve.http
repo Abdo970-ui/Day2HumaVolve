@@ -1,0 +1,6 @@
+@Day2HumaVolve_HostAddress = http://localhost:5219
+
+GET {{Day2HumaVolve_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
